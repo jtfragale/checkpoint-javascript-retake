@@ -5,7 +5,15 @@
 // - a `members` property that is an empty array not determined by input (not passed into the constructor)
 // - an `addMember` method that adds a person (string) to the `members` array
 // Type your solution immediately below this line:
+class Group = {
+  constructor(name, members,)
+  this.name = name,
+  this.members = [],
 
+  function addMember = {
+    group.push(members[i])
+  }
+}
 
 
 
